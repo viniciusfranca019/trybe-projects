@@ -59,3 +59,21 @@ Repositório direcionado a listar o projetos feitos no curso de desenvolvimento 
 ### [TING](https://github.com/viniciusfranca019/CS-module-trybe-p6-TING)
 
 # Data Science
+
+### [Pré-processamento](https://github.com/viniciusfranca019/codenation-data-science-p1)
+
+### [Estatística Basica](https://github.com/viniciusfranca019/codenation-data-science-p2)
+
+### [Funções de Probabilidade I](https://github.com/viniciusfranca019/codenation-data-science-p3)
+
+### [Funções de Probabilidade II](https://github.com/viniciusfranca019/codenation-data-science-p4)
+
+### [Redução de dimensionalidade](https://github.com/viniciusfranca019/codenation-data-science-p5)
+
+### [Feature engineering](https://github.com/viniciusfranca019/codenation-data-science-p6)
+
+### [Algoritimo de Regressão Linear](https://github.com/viniciusfranca019/codenation-data-science-p7)
+
+### [Treinando Modelo](https://github.com/viniciusfranca019/codenation-data-science-p8)
+
+### [Projeto Final em Grupo](https://github.com/viniciusfranca019/group-project-codenation)
