@@ -2,13 +2,13 @@
 
 Repositório direcionado a listar o projetos feitos no curso de desenvolvimento web da trybe e aceleração de Data science
 
-## Front
+# Front
 
 ### [Movie card](https://github.com/viniciusfranca019/front-module-trybe-p1-movie-card)
 
-### [Movie card stateful]((https://github.com/viniciusfranca019/front-module-trybe-p2-movie-card-stateful))
+### [Movie card stateful](https://github.com/viniciusfranca019/front-module-trybe-p2-movie-card-stateful)
 
-### [Movie card CRUD]((https://github.com/viniciusfranca019/front-module-trybe-p3-movie-card-crud))
+### [Movie card CRUD](https://github.com/viniciusfranca019/front-module-trybe-p3-movie-card-crud)
 
 ### [RTL](https://github.com/viniciusfranca019/front-module-trybe-p4-RTL)
 
@@ -16,10 +16,8 @@ Repositório direcionado a listar o projetos feitos no curso de desenvolvimento 
 
 ### [Star wars](https://github.com/viniciusfranca019/front-module-trybe-p6-star-wars)
 
-## Back
+# Back
 
-## Computer Science
+# Computer Science
 
-## Data Science
-
-### 
+# Data Science
