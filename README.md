@@ -46,4 +46,16 @@ Repositório direcionado a listar o projetos feitos no curso de desenvolvimento 
 
 # Computer Science
 
+### [Job Insights](https://github.com/viniciusfranca019/CS-module-trybe-p1-job-insights)
+
+### [Inventory Report](https://github.com/viniciusfranca019/CS-module-trybe-p2-inventory-report)
+
+### [Tech News](https://github.com/viniciusfranca019/CS-module-trybe-p3-tech-news)
+
+### [Algorithms](https://github.com/viniciusfranca019/CS-module-trybe-p4-algorithms)
+
+### [Restaurant Orders](https://github.com/viniciusfranca019/CS-module-trybe-p5-restaurant-orders)
+
+### [TING](https://github.com/viniciusfranca019/CS-module-trybe-p6-TING)
+
 # Data Science
